@@ -16,7 +16,7 @@ const Portfolio = () => {
           <Row>
             {/* Spotify */}
 
-            <div className="col-md-6 col-xs-12 big-div-portfolio">
+            <div className="col-lg-6 col-xs-12 big-div-portfolio">
               <div className="projects-name">
                 <h5>Spotify</h5>
               </div>
@@ -53,7 +53,7 @@ const Portfolio = () => {
 
             {/* Snake-game */}
 
-            <div className="col-md-6 col-xs-12 big-div-portfolio">
+            <div className="col-lg-6 col-xs-12 big-div-portfolio">
               <div className="projects-name">
                 <h5>Snake-game</h5>
               </div>
@@ -89,7 +89,7 @@ const Portfolio = () => {
 
             {/* Linkedin */}
 
-            <div className="col-md-6 col-xs-12 big-div-portfolio">
+            <div className="col-lg-6 col-xs-12 big-div-portfolio">
               <div className="projects-name">
                 <h5>Linkedin</h5>
               </div>
@@ -122,20 +122,20 @@ const Portfolio = () => {
                     MongoDB
                   </h5>
                 </div>
-                <div className="project-info">
+                <div className="project-info project-info-linkedin">
                   <a
                     target="_blank"
                     href="https://github.com/fainapahanko/linkedin-be"
                     className="projects-tools"
                   >
-                    RepoURL(Backend)
+                    RepoURL(BE)
                   </a>
                   <a
                     target="_blank"
                     href="https://github.com/fainapahanko/frontend-linkedin"
                     className="projects-tools"
                   >
-                    RepoURL(Frontend)
+                    RepoURL(FE)
                   </a>
                   <a
                     target="_blank"
@@ -150,7 +150,7 @@ const Portfolio = () => {
 
             {/* Color-game */}
 
-            <div className="col-md-6 col-xs-12 big-div-portfolio">
+            <div className="col-lg-6 col-xs-12 big-div-portfolio">
               <div className="projects-name">
                 <h5>Color-game</h5>
               </div>
