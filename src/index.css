@@ -66,16 +66,20 @@ li a:hover {
 }
 .div-for-dingle-project{
   border: 1px solid transparent;
+  transition: 1s;
 }
 .div-for-dingle-project:hover{
   border: 1px solid rgba(255,255,255,0.3);
+  transition: 1s;
   box-shadow: 3px 5px 28px 10px rgba(255,255,255,0.3);
 }
 .contacts-div-aboutme-section {
   color:white;
+  transition: 1s;
 }
 .contacts-div-aboutme-section:hover {
   background-color:rgba(255,255,255,0.8);
+  transition: 1s;
   color: rgb(46, 0, 0);
   text-decoration: none;
   cursor: url(./img/click.png);
