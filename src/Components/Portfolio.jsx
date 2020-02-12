@@ -102,22 +102,22 @@ const Portfolio = () => {
                   />
                 </div>
                 <div className="project-info">
-                  <h5 className="projects-tools projects-tools-linkedin">
+                  <h5 className="projects-tools">
                     ReactJS
                   </h5>
-                  <h5 className="projects-tools projects-tools-linkedin">
+                  <h5 className="projects-tools">
                     {" "}
                     Redux
                   </h5>
-                  <h5 className="projects-tools projects-tools-linkedin">
+                  <h5 className="projects-tools">
                     {" "}
                     NodeJs
                   </h5>
-                  <h5 className="projects-tools projects-tools-linkedin">
+                  <h5 className="projects-tools">
                     {" "}
                     Express
                   </h5>
-                  <h5 className="projects-tools projects-tools-linkedin">
+                  <h5 className="projects-tools">
                     {" "}
                     MongoDB
                   </h5>
