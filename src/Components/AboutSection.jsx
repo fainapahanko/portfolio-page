@@ -8,7 +8,7 @@ const AboutSection = () => {
     <div className="main-about-div" id="about-me">
       <div className="presentation-div">
         <div className="main-phrase">
-          <h1>Junior FullStack Developer</h1>
+          <h1>Hi, my name is Faina and I am a FullStack Developer</h1>
         </div>
         <div className="contacts-div-aboutme-section-main">
           <a
