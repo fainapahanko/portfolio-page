@@ -4,7 +4,7 @@ const Contacts = () => {
     return (
         <div className='main-contacts-div' id='contact'>
             <div className='presentation-div'>
-                <div className='main-phrase'>
+                <div className='contacts'>
                     <h1>Contacts</h1>
                     <ul>
                         <li><a className="" target="_blank" href="mailto:f.poganko@gmail.com">f.poganko@gmail.com</a></li>

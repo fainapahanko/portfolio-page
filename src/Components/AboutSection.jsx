@@ -2,11 +2,16 @@ import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronDown } from "@fortawesome/free-solid-svg-icons";
 import { Link } from "react-scroll";
+import me from "../img/Faina.jpg";
 
 const AboutSection = () => {
   return (
     <div className="main-about-div" id="about-me">
       <div className="presentation-div">
+        <div className="pic-div">
+          <div className="avatar" style={{backgroundImage: `url(${me})`}}>
+          </div>
+          </div> 
         <div className="main-phrase">
           <h1>Hi, my name is Faina and I am a FullStack Developer</h1>
         </div>

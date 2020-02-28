@@ -20,7 +20,7 @@ code {
   min-height: 100vh;
 }
 .arrow-icon{
-  margin-top: 50px;
+  margin-top: 20px;
   font-size: 30px;
   color: rgba(255,255,255,0.6);
   font-weight: 900;
@@ -34,7 +34,7 @@ code {
   align-items: center;
 }
 .tools-stack{
-  margin-top: 30px;
+  margin-top: 10px;
   text-align: center;
   color: rgba(255,255,255,0.4);
   font-family: 'Roboto', sans-serif;
@@ -141,13 +141,31 @@ li a:hover {
   margin: 0 auto;
   font-size: 24px;
   color: rgba(255,255,255,0.6);
-  padding-top: 100px;
+  padding-top: 10px;
+}
+.avatar{
+  background-repeat: no-repeat;
+  margin-top: 100px;
+  border-radius: 50%;
+  margin: 0 auto;
+  background-position: center;
+  width: 220px;
+  height: 220px;
+}
+.pic-div{
+  padding-top: 85px;
 }
 .main-phrase{
   text-align: center;
   margin: 0 auto;
   color: rgba(255,255,255,0.6);
-  padding-top: 200px;
+  padding-top: 20px;
+}
+.contacts{
+  text-align: center;
+  margin: 0 auto;
+  color: rgba(255,255,255,0.6);
+  padding-top: 250px;
 }
 .main-phrase h1 {
   font-size: 40px;
