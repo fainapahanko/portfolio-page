@@ -26,7 +26,12 @@ const Portfolio = () => {
                 <div className="singe-project-div">
                   <div className="project-promo" style={{backgroundImage: `url(${spotify})`}}>
                     <div className="project-info-hover">
-                      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis, dolore. Dicta incidunt tenetur voluptates quidem nesciunt odit doloremque unde eum quod qui, sunt nostrum nisi mollitia? Aliquam eligendi quidem eius.</p>
+                      <p>A demo version of Spotifay’s copy in which you can listen, search for songs / artist, go to the album / artist page, etc. 
+                        Data on musical artists, songs, etc. were obtained with the help of rapidapi.
+                      </p>
+                      <p>
+                        Please be aware that rendering can take a while since it was deployed on free hosting for showing purposes.
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -63,7 +68,10 @@ const Portfolio = () => {
                 <div className="singe-project-div">
                   <div className="project-promo" style={{backgroundImage: `url(${snakeGame})`}}>
                     <div className="project-info-hover">
-                      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis, dolore. Dicta incidunt tenetur voluptates quidem nesciunt odit doloremque unde eum quod qui, sunt nostrum nisi mollitia? Aliquam eligendi quidem eius.</p>
+                      <p>Good old snake game. Written in pure javascript. Two modes (easy and hard) are possible.</p>
+                      <p>
+                        Please be aware that rendering can take a while since it was deployed on free hosting for showing purposes.
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -99,7 +107,10 @@ const Portfolio = () => {
                 <div className="singe-project-div">
                   <div className="project-promo" style={{backgroundImage: `url(${gameOfLife})`}}>
                     <div className="project-info-hover">
-                      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis, dolore. Dicta incidunt tenetur voluptates quidem nesciunt odit doloremque unde eum quod qui, sunt nostrum nisi mollitia? Aliquam eligendi quidem eius.</p>
+                      <p>It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. It is imitating evolution where the cell can die of overpopulation or underpopulation or remain alive.</p>
+                      <p>
+                        Please be aware that rendering can take a while since it was deployed on free hosting for showing purposes.
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -135,7 +146,10 @@ const Portfolio = () => {
                 <div className="singe-project-div">
                   <div className="project-promo" style={{backgroundImage: `url(${linkedin})`}}>
                     <div className="project-info-hover">
-                      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis, dolore. Dicta incidunt tenetur voluptates quidem nesciunt odit doloremque unde eum quod qui, sunt nostrum nisi mollitia? Aliquam eligendi quidem eius.</p>
+                      <p> A demo version of Linkedin’s copy in which you can login / register, create your profile, add a post, chat with other users, react on other user's posts, etc. </p>
+                      <p>
+                        Please be aware that rendering can take a while since it was deployed on free hosting for showing purposes.
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -196,7 +210,10 @@ const Portfolio = () => {
                 <div className="singe-project-div">
                   <div className="project-promo" style={{backgroundImage: `url(${idealPlaceToWork})`}}>
                     <div className="project-info-hover">
-                      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis, dolore. Dicta incidunt tenetur voluptates quidem nesciunt odit doloremque unde eum quod qui, sunt nostrum nisi mollitia? Aliquam eligendi quidem eius.</p>
+                      <p>"Ideal Place To Work" is a project where you can search for a cafe, coworking space, etc for working purposes. You can rate a place and filter places by fields like Goog Service, Strong WiFi, etc. Places from Google API with an extra layer that is relevant for the specific of the website were saved to the database.</p>
+                      <p>
+                        Please be aware that rendering can take a while since it was deployed on free hosting for showing purposes.
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -257,7 +274,10 @@ const Portfolio = () => {
                 <div className="singe-project-div">
                   <div className="project-promo" style={{backgroundImage: `url(${colorGame})`}}>
                     <div className="project-info-hover">
-                      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis, dolore. Dicta incidunt tenetur voluptates quidem nesciunt odit doloremque unde eum quod qui, sunt nostrum nisi mollitia? Aliquam eligendi quidem eius.</p>
+                      <p>Color game is a browser game where you see a color in RGB format and have to guess that specific color among others. Two modes (easy and hard) are possible.</p>
+                      <p>
+                        Please be aware that rendering can take a while since it was deployed on free hosting for showing purposes.
+                      </p>
                     </div>
                   </div>
                 </div>
