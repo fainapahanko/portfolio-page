@@ -29,6 +29,9 @@ const AboutSection = () => {
           <a target="_blank" href="https://www.hackerrank.com/f_poganko1" className="contacts-div-aboutme-section">
               Hackerrank
             </a>
+            <a target="_blank" href="https://medium.com/@pahankofaina" className="contacts-div-aboutme-section">
+              Medium
+            </a>
         </div>
         <div>
           <div className="tools-stack">
@@ -48,7 +51,7 @@ const AboutSection = () => {
           </div>
         </div>
       </div>
-      <Link to="portfolio" spy={true} smooth={true} offset={50} duration={500}>
+      <Link to="portfolio" spy={true} smooth={true} offset={-50} duration={500}>
         <div className="arrow-down">
           <FontAwesomeIcon className="arrow-icon" icon={faChevronDown} />
         </div>

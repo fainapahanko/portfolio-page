@@ -10,7 +10,6 @@ const NavBar = () => {
             to="about-me" 
             spy={true} 
             smooth={true} 
-            offset={50} 
             duration={500}
         >
             About me
@@ -20,7 +19,7 @@ const NavBar = () => {
             to="portfolio" 
             spy={true} 
             smooth={true} 
-            offset={50} 
+            offset={-50} 
             duration={500}
         >
             Portfolio
@@ -30,7 +29,7 @@ const NavBar = () => {
             to="contact" 
             spy={true} 
             smooth={true} 
-            offset={50} 
+            offset={-20} 
             duration={500}
         >
             Contact
