@@ -228,6 +228,9 @@ li a:hover {
     background: rgba(1,1,1,0.7);
     color: rgba(255,255,255,0.6);
   }
+  .project-info-hover{
+    font-size: 12px;
+  }
   .nav-section {
     display: flex;
     align-items: center;
@@ -236,12 +239,26 @@ li a:hover {
   .nav-link{
     font-size: 15px;
   }
+  .nav-link:hover{
+    color: rgba(255,255,255,0.2) !important;
+    text-transform: uppercase;
+    font-size: 15px;
+  }
   .main-phrase h1 {
     font-size: 30px;
   }
   .contacts-div-aboutme-section{
-    padding: 12px;
+    width: 100px;
     font-size: 12px;
+    text-align: center;
+  }
+  .contacts-div-aboutme-section-main{
+    width: 300px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; 
   }
   .tools-stack h4{
     font-size: 18px;
